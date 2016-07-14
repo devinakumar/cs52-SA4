@@ -1,1 +1,2 @@
-# js-starter
+# Short Assignment 4
+Introduction to React
